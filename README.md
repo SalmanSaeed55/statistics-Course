@@ -4,10 +4,17 @@ This repository documents my self-study journey through Mike X Cohen's Udemy cou
 
 ## Project structure
 
-| Path | What it contains | Purpose |
-| --- | --- | --- |
-| `01_Section_Summaries/` | Section-by-section summary notes | My own written understanding of each course section. |
-| `02_Course_Material/` | Instructor-provided materials and notebooks | Hands-on practice using the course content provided by the instructor. |
+| Path                                | What it contains                              | Purpose                                                                                  |
+|-------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------------|
+| `01_Section_Summaries/`             | Section-by-section summary notes              | My own written understanding of each course section.                                     |
+| `02_Course_Material/`               | Instructor-provided materials and notebooks   | Hands-on practice using the course content provided by the instructor.                   |
+| `03_Statistics_Application_Python/` | Learning implemented in Python where possible | Allows better understanding of concepts, by ensuring I am able to program them in Python |
+
+## `03_Statistics_Application_Python/` - What it contains
+
+#### `03_Statistics_Application_Python/05_Visualising_Data/01_histogram_bins.py` 
+This file contains Python code that implements the formula to convert histogram counts to histogram proportions. 
+This is an implementation of the formula taught within the course, written in Python, making it easy to convert between the two representations of histogram data.
 
 
 ## Course structure file (Excel)
